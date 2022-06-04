@@ -19,7 +19,6 @@ int main()
             else break;
         }
     }
-    if(N % 3 == 0) cout<< N/3<<endl;
-    else cout << "-1\n";
+    cout << "-1\n";
 }
 
